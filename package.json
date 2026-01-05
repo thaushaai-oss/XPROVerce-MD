@@ -1,5 +1,5 @@
 {
-  "name": "queen_anju",
+  "name": "xpro-md",
   "version": "5.0.0",
   "description": "A Simple WhatsApp bot created By King-Rashmika",
   "main": "start.js",
@@ -34,8 +34,8 @@
     "genius-lyrics": "^4.4.7",
     "google-tts-api": "2.0.2",
     "https": "^1.0.0",
-    "jimp": "^0.16.1",
     "image-upscaler": "^0.0.7",
+    "jimp": "^0.16.13",
     "lyrics-search": "^1.0.0",
     "megajs": "^1.1.0",
     "moment": "2.30.1",
